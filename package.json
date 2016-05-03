@@ -1,0 +1,40 @@
+{
+  "name": "gulp-ng-replace-directive-template",
+  "version": "1.0.0",
+  "description": "gulp ng directive replace",
+  "keywords": [
+    "gulp plugin",
+    "gulp-ng-replace-directive-template",
+    "angular",
+    "directive",
+    "ie"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Johnqing/gulp-ng-replace-directive-template.git"
+  },
+  "author": {
+    "name": "Liu Qing",
+    "email": "csssnow@gmail.com"
+  },
+  "main": "./index.js",
+  "scripts": {},
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "dependencies": {
+    "glob": "^5.0.13",
+    "gulp-util": "^2.2.5",
+    "through2": ">=0.6.1"
+  },
+  "devDependencies": {
+    "ng-directive-parser": "0.0.3"
+  },
+  "license": "MIT",
+  "readme": "",
+  "readmeFilename": "readme.md",
+  "bugs": {
+    "url": "https://github.com/Johnqing/gulp-ng-replace-directive-template/issues"
+  },
+  "homepage": "https://github.com/Johnqing/gulp-ng-replace-directive-template"
+}
